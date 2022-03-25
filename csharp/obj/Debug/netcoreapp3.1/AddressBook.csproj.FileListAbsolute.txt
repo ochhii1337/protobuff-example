@@ -1,0 +1,15 @@
+C:\Users\Ochhii\Development\protobuff-example\csharp\bin\Debug\netcoreapp3.1\AddressBook.exe
+C:\Users\Ochhii\Development\protobuff-example\csharp\bin\Debug\netcoreapp3.1\AddressBook.deps.json
+C:\Users\Ochhii\Development\protobuff-example\csharp\bin\Debug\netcoreapp3.1\AddressBook.runtimeconfig.json
+C:\Users\Ochhii\Development\protobuff-example\csharp\bin\Debug\netcoreapp3.1\AddressBook.runtimeconfig.dev.json
+C:\Users\Ochhii\Development\protobuff-example\csharp\bin\Debug\netcoreapp3.1\AddressBook.dll
+C:\Users\Ochhii\Development\protobuff-example\csharp\bin\Debug\netcoreapp3.1\AddressBook.pdb
+C:\Users\Ochhii\Development\protobuff-example\csharp\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Ochhii\Development\protobuff-example\csharp\obj\Debug\netcoreapp3.1\AddressBook.csprojAssemblyReference.cache
+C:\Users\Ochhii\Development\protobuff-example\csharp\obj\Debug\netcoreapp3.1\AddressBook.AssemblyInfoInputs.cache
+C:\Users\Ochhii\Development\protobuff-example\csharp\obj\Debug\netcoreapp3.1\AddressBook.AssemblyInfo.cs
+C:\Users\Ochhii\Development\protobuff-example\csharp\obj\Debug\netcoreapp3.1\AddressBook.csproj.CoreCompileInputs.cache
+C:\Users\Ochhii\Development\protobuff-example\csharp\obj\Debug\netcoreapp3.1\AddressBook.csproj.CopyComplete
+C:\Users\Ochhii\Development\protobuff-example\csharp\obj\Debug\netcoreapp3.1\AddressBook.dll
+C:\Users\Ochhii\Development\protobuff-example\csharp\obj\Debug\netcoreapp3.1\AddressBook.pdb
+C:\Users\Ochhii\Development\protobuff-example\csharp\obj\Debug\netcoreapp3.1\AddressBook.genruntimeconfig.cache
